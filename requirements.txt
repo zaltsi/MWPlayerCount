@@ -1,0 +1,5 @@
+discord~=1.0.1
+
+
+hypixel~=0.7.9
+requests~=2.25.1
